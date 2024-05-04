@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-sarfraz-ilahi" alt="mohammad-sarfraz-ilahi" /></a> </p>
 
-- 🔭 I’m currently working on a AI chatbot [Nebula](https://github.com/Mohammad-Sarfraz-Ilahi/Nebula)
+- 🔭 I’m currently working on an AI chatbot [Nebula](https://github.com/Mohammad-Sarfraz-Ilahi/Nebula)
 
 - 🌱 I’m currently learning **React Native**
 
